@@ -70,6 +70,7 @@ build/wpa_supplicant/component_project_vars.mk
 main/CMakeLists.txt
 main/Kconfig.projbuild
 main/component.mk
-main/station_example_main.c
+main/main.c
+main/relay_types.h
 sdkconfig
 sdkconfig.old
